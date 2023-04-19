@@ -53,6 +53,7 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katlegomaphango&theme=transparent&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlegomaphango&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
