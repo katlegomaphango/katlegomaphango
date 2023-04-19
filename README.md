@@ -26,6 +26,15 @@
 
 
 ### 👨‍💻 About Me:
+I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bloemfontein, South Africa.
+
+- 🧑‍🎓 I'm studying Software Development at CodeSpace.
+
+- 🌱 Exploring Podcasting and C#.
+
+- ⚡ In my free time, I listen to podcasts and read books.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katlego-maphango/)
 
 <!--
 **katlegomaphango/katlegomaphango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
