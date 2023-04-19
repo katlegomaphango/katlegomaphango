@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Im an aspiring software developer currently studying software development full time at CodeSpace.
 
 <!--
 **katlegomaphango/katlegomaphango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
