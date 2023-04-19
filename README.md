@@ -51,7 +51,7 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katlegomaphango&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=katlegomaphango&theme=transparent&border_radius=5&exclude_days=Sun)](https://git.io/streak-stats)
 
 
 
