@@ -9,9 +9,14 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=katlegomaphango&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-### Hi there 👋, Im an aspiring software developer currently studying software development full time at CodeSpace.
+<!--### Hi there 👋, Im an aspiring software developer currently studying software development full time at CodeSpace.-->
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
