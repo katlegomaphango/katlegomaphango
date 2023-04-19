@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="200"/>
 </div>
 
 ### Hi there 👋, Im an aspiring software developer currently studying software development full time at CodeSpace.
