@@ -44,7 +44,7 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### 🌱 I’m currently learning:
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" atl="redux" width="20" height="20" /> Redux
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" atl="redux" width="20" height="20" /> ###### Redux
 <br >
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" atl="react" width="40" height="40" /> React
 
