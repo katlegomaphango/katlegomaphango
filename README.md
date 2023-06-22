@@ -46,7 +46,7 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 
 ### 🌱 I’m currently learning:
 - <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" atl="react" width="15" height="15" /> React
-- - <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" atl="csharp" width="15" height="15" /> C#
+- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" atl="csharp" width="15" height="15" /> C#
 
 
 ---
