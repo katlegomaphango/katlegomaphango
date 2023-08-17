@@ -46,7 +46,8 @@ I am an Aspiring Software Developer <img src="https://media.giphy.com/media/WUlp
 ---
 
 ### 🌱 I’m currently learning:
-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" atl="csharp" width="15" height="15" /> C# and <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="CSharp" atl="csharp" width="15" height="15" /> .NET
+- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" atl="csharp" width="20" height="20" /> and
+- <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="CSharp" atl="csharp" width="20" height="20" />
 
 
 ---
